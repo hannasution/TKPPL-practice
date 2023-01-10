@@ -3,3 +3,5 @@ File Pertemuan 14
 Membuat branch develop
 
 Membuat branch fitur-a
+
+Sekarang di branch rilis akan merge ke branch develop 
